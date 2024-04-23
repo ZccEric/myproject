@@ -1,10 +1,7 @@
 add test file master edit this line
-hello
 new dev edit
 master say hello
-and modify cintent
 zcc say hello
 system.out.print("1234")
-test content edit 1111
+test edit
 test rebase
-zcc add content
